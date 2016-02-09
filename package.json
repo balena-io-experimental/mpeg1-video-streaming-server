@@ -1,0 +1,25 @@
+{
+  "name": "luci-streaming-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resin-io/luci-streaming-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resin-io/luci-streaming-server/issues"
+  },
+  "homepage": "https://github.com/resin-io/luci-streaming-server#readme",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "express": "^4.13.4",
+    "lodash": "^4.2.1",
+    "ws": "^1.0.1"
+  }
+}
